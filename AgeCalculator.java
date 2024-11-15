@@ -21,7 +21,7 @@ public class AgeCalculator {
                 input = scanner.nextLine();
                 break;
             case 2:
-                System.out.print("Enter Age in format (e.g., AGE=19-10-0019): ");
+                System.out.print("Enter Age in format (e.g., AGE=19-10-0019), DAYS/MONTH/YEAR: ");
                 input = scanner.nextLine();
                 break;
             default:
